@@ -25,3 +25,6 @@ Questions: about Seattle¶
 2. The group of price is the common rental in Seattle is from 100dola to 200dola
 3. There are some host have multiple apartments or homes available in their entirity like Kara, Sseamless
 - There are a lot of host separate rooms in the same apartment (64% listing) in Seattle
+
+## Link of blog
+https://coal-caboc-088.notion.site/Project-Writing-a-Data-Scientist-Blog-Post-fa4b0977a6f949f18ec6a3b1d1ab3a0f
